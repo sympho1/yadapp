@@ -3,3 +3,6 @@ bin/
 cache/
 __pycache__
 */__pycache__
+.idea/
+.fleet/
+*.pyc
